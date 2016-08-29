@@ -1,7 +1,7 @@
-# Material-Sidenav-Ghost-Theme
-A Ghost blogging-platform theme, based on [Materialize 0.97.6](http://materializecss.com/)
+# Material-Ghost-Theme
+Forked from https://github.com/SuphanutJui/Material-Sidenav-Ghost-Theme
 
-For the demo please visit my own blog: [https://www.suphanutjui.com](https://www.suphanutjui.com)
+A Ghost blogging-platform theme, based on [Materialize 0.97.6](http://materializecss.com/)
 
 # Material Sidenav Ghost
 
